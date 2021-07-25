@@ -17,6 +17,10 @@ You will also see any lint errors in the console.
 This will launch the db.json on port 5000 of local host
 This will allow the user to store their watched list, rating and whether or not they have completed the movie!
 
+API KEY:
+Visit http://www.omdbapi.com/ to create your own API key, in a .env file create a variable called
+REACT_APP_API_KEY and set it equal to that API key
+
 Use{
 Use the upper left button to show the search menu, and or hide it!
 Go to the top left watchlist button to see your watch list.
