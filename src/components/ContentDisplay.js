@@ -149,7 +149,7 @@ export default function ContentDisplay(props) {
           {/* given they have not watched the show change button options */}
           {!watched && (
             <Button
-              color="Primary"
+              color="primary"
               variant="contained"
               size="small"
               onClick={() => {

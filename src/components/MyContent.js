@@ -7,6 +7,7 @@ export default function MyContent(props) {
       {props.movies.map((movie) => (
         <ContentDisplay
           movieId={movie.id}
+          key={movie.id}
           content={movie}
           onDelete={props.onDelete}
           watchList={props.watchList}

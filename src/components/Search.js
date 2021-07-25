@@ -52,6 +52,7 @@ export default function Search(props) {
             year: result.Year,
             description: result.Plot,
             watched: false,
+            rating: "No rating",
           });
           console.log(result);
         })

@@ -16,7 +16,7 @@ function App() {
     year: "",
     description: "",
     watched: false,
-    rating: null,
+    rating: "No Rating",
   });
   useEffect(() => {
     const getMovies = async () => {
