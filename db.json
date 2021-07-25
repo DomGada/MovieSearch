@@ -1,0 +1,56 @@
+{
+  "movies": [
+    {
+      "title": "Flipper",
+      "year": "1996",
+      "description": "A teenage boy sent to spend the summer with his eccentric uncle on the Florida coast befriends a remarkable dolphin and takes on local bad guys who are polluting the water.",
+      "watched": true,
+      "id": 1,
+      "rating": "6"
+    },
+    {
+      "title": "End Game",
+      "year": "2006",
+      "description": "A secret Service agent and a news reporter investigate the conspiracy behind the assassination of the President.",
+      "watched": true,
+      "id": 2,
+      "rating": "7"
+    }
+  ],
+  "searchlist": [
+    {
+      "id": 1,
+      "title": "Hot Rod",
+      "year": "2007",
+      "description": "lmao"
+    },
+    {
+      "title": "Hot Rod",
+      "year": "2007",
+      "description": "Self-proclaimed stuntman Rod Kimble is preparing for the jump of his life - to clear fifteen buses to raise money for his abusive stepfather Frank's life-saving heart operation.",
+      "display": true,
+      "id": 2
+    },
+    {
+      "title": "",
+      "year": "",
+      "description": "",
+      "display": false,
+      "id": 3
+    },
+    {
+      "title": "",
+      "year": "",
+      "description": "",
+      "display": false,
+      "id": 4
+    },
+    {
+      "title": "",
+      "year": "",
+      "description": "",
+      "display": false,
+      "id": 5
+    }
+  ]
+}
